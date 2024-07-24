@@ -6,5 +6,5 @@ function encontrarProdutoPorID(id){
         return "ID não encontrado"
 }
     return produtoEncontrado;
-}
+}'test'
 console.log(encontrarProdutoPorID(4));
